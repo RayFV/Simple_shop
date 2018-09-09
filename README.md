@@ -6,17 +6,17 @@
 * 另外前四個管理功能上，我們假設只需要輸入Primary Key即可新增，其他屬性是否應該輸入的情況我們一律不考慮。
 
 ### 首頁
-![home](https://github.com/RayFV/Simple_shop/blob/master/home.PNG)
+![home](https://github.com/RayFV/Simple_shop/blob/master/home.png)
 
 ### 會員管理
-![user](https://github.com/RayFV/Simple_shop/blob/master/User.PNG)
+![user](https://github.com/RayFV/Simple_shop/blob/master/User.png)
 
 ### 搜尋
-![search](https://github.com/RayFV/Simple_shop/blob/master/search.PNG)
+![search](https://github.com/RayFV/Simple_shop/blob/master/search.png)
 
 ## 運行
 自行使用WampServer打開
 
 ## 其他
-想知道更多詳細可自行運行操作，或可以參考我們的作業文件。
-![pdf](https://github.com/RayFV/Simple_shop/blob/master/b10423056Hw3.pdf)
+想知道更多詳細可自行運行操作，或可以參考我們的作業文件。<br>
+[B10423056Hw3.pdf](https://github.com/RayFV/Simple_shop/blob/master/B10423056Hw3.pdf)
